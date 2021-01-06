@@ -1,6 +1,6 @@
 ﻿# About
 
-A responsive static website for **KITES** *(Kerala IEEE Technical Exhibition and Symposium)* to be conducted at  **Amal Jyothi College of Engineering** from **1 - 3 February 2021**. 
+A responsive static website for **KITES** *(Kerala IEEE Technical Exhibition and Symposium)* to be conducted at  **Amal Jyothi College of Engineering** from **1-3 February 2021**. 
 
 **KITES** is the major flagship event of **IEEE LINK**.
 
